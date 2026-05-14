@@ -1,0 +1,327 @@
+{
+  "_ApplicationLogo-DhabMiiT.js": {
+    "file": "assets/ApplicationLogo-DhabMiiT.js",
+    "name": "ApplicationLogo",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_AuthenticatedLayout-BkZzjBa9.js": {
+    "file": "assets/AuthenticatedLayout-BkZzjBa9.js",
+    "name": "AuthenticatedLayout",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo-DhabMiiT.js"
+    ]
+  },
+  "_Staff1Layout-B0EQ9kDJ.js": {
+    "file": "assets/Staff1Layout-B0EQ9kDJ.js",
+    "name": "Staff1Layout",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo-DhabMiiT.js"
+    ]
+  },
+  "_Staff2Layout-DYbHm5M4.js": {
+    "file": "assets/Staff2Layout-DYbHm5M4.js",
+    "name": "Staff2Layout",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Admin/Dashboard.jsx": {
+    "file": "assets/Dashboard-D6g0CbbZ.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Admin/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-BkZzjBa9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Reports.jsx": {
+    "file": "assets/Reports-Bt-vzDCX.js",
+    "name": "Reports",
+    "src": "resources/js/Pages/Admin/Reports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-BkZzjBa9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/SystemOversight.jsx": {
+    "file": "assets/SystemOversight-BArJEwG0.js",
+    "name": "SystemOversight",
+    "src": "resources/js/Pages/Admin/SystemOversight.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-BkZzjBa9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/UserManagement.jsx": {
+    "file": "assets/UserManagement-DKuQJ9b4.js",
+    "name": "UserManagement",
+    "src": "resources/js/Pages/Admin/UserManagement.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-BkZzjBa9.js"
+    ]
+  },
+  "resources/js/Pages/Auth/OtpVerify.jsx": {
+    "file": "assets/OtpVerify-bAI7yVRo.js",
+    "name": "OtpVerify",
+    "src": "resources/js/Pages/Auth/OtpVerify.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard-DUvJM2Ac.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthenticatedLayout-BkZzjBa9.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/BarangayIssuance.jsx": {
+    "file": "assets/BarangayIssuance-C5ccVWgc.js",
+    "name": "BarangayIssuance",
+    "src": "resources/js/Pages/Staff1/BarangayIssuance.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/ConsumptionReports.jsx": {
+    "file": "assets/ConsumptionReports-f_OjKDGX.js",
+    "name": "ConsumptionReports",
+    "src": "resources/js/Pages/Staff1/ConsumptionReports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/Dashboard.jsx": {
+    "file": "assets/Dashboard-Df_eCptb.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Staff1/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/DispatchRequests.jsx": {
+    "file": "assets/DispatchRequests-CihWDkZ7.js",
+    "name": "DispatchRequests",
+    "src": "resources/js/Pages/Staff1/DispatchRequests.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/Inventory.jsx": {
+    "file": "assets/Inventory-BZijyfPK.js",
+    "name": "Inventory",
+    "src": "resources/js/Pages/Staff1/Inventory.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/InventoryReports.jsx": {
+    "file": "assets/InventoryReports-DbygK_Th.js",
+    "name": "InventoryReports",
+    "src": "resources/js/Pages/Staff1/InventoryReports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/MonitoringAlerts.jsx": {
+    "file": "assets/MonitoringAlerts-DulW55zg.js",
+    "name": "MonitoringAlerts",
+    "src": "resources/js/Pages/Staff1/MonitoringAlerts.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/PersonnelTraining.jsx": {
+    "file": "assets/PersonnelTraining-KE3Vh1ge.js",
+    "name": "PersonnelTraining",
+    "src": "resources/js/Pages/Staff1/PersonnelTraining.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/PostEventReports.jsx": {
+    "file": "assets/PostEventReports-C1WydeIf.js",
+    "name": "PostEventReports",
+    "src": "resources/js/Pages/Staff1/PostEventReports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/ResourceDispatch.jsx": {
+    "file": "assets/ResourceDispatch-2q5n-_Dv.js",
+    "name": "ResourceDispatch",
+    "src": "resources/js/Pages/Staff1/ResourceDispatch.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff1/StockStatus.jsx": {
+    "file": "assets/StockStatus-Di7bJ-hw.js",
+    "name": "StockStatus",
+    "src": "resources/js/Pages/Staff1/StockStatus.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff1Layout-B0EQ9kDJ.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/AcknowledgeReports.jsx": {
+    "file": "assets/AcknowledgeReports-DbvKzR0R.js",
+    "name": "AcknowledgeReports",
+    "src": "resources/js/Pages/Staff2/AcknowledgeReports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/Dashboard.jsx": {
+    "file": "assets/Dashboard-DK9Z8vOK.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Staff2/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/HazardMap.jsx": {
+    "file": "assets/HazardMap-D6j75sQJ.js",
+    "name": "HazardMap",
+    "src": "resources/js/Pages/Staff2/HazardMap.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/IncidentMap.jsx": {
+    "file": "assets/IncidentMap-D5Rd5kCR.js",
+    "name": "IncidentMap",
+    "src": "resources/js/Pages/Staff2/IncidentMap.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/IncidentStatus.jsx": {
+    "file": "assets/IncidentStatus-jQKTJzNV.js",
+    "name": "IncidentStatus",
+    "src": "resources/js/Pages/Staff2/IncidentStatus.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/PostEventReports.jsx": {
+    "file": "assets/PostEventReports-BbFfCVy0.js",
+    "name": "PostEventReports",
+    "src": "resources/js/Pages/Staff2/PostEventReports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/ResponderCoordination.jsx": {
+    "file": "assets/ResponderCoordination-DFhRqcfT.js",
+    "name": "ResponderCoordination",
+    "src": "resources/js/Pages/Staff2/ResponderCoordination.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Staff2/ResponseStatus.jsx": {
+    "file": "assets/ResponseStatus-BxpdGE4N.js",
+    "name": "ResponseStatus",
+    "src": "resources/js/Pages/Staff2/ResponseStatus.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Staff2Layout-DYbHm5M4.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.jsx": {
+    "file": "assets/Welcome-CBm6cXeO.js",
+    "name": "Welcome",
+    "src": "resources/js/Pages/Welcome.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-CU7cbXGa.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Admin/Dashboard.jsx",
+      "resources/js/Pages/Admin/Reports.jsx",
+      "resources/js/Pages/Admin/SystemOversight.jsx",
+      "resources/js/Pages/Admin/UserManagement.jsx",
+      "resources/js/Pages/Auth/OtpVerify.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/Staff1/BarangayIssuance.jsx",
+      "resources/js/Pages/Staff1/ConsumptionReports.jsx",
+      "resources/js/Pages/Staff1/Dashboard.jsx",
+      "resources/js/Pages/Staff1/DispatchRequests.jsx",
+      "resources/js/Pages/Staff1/Inventory.jsx",
+      "resources/js/Pages/Staff1/InventoryReports.jsx",
+      "resources/js/Pages/Staff1/MonitoringAlerts.jsx",
+      "resources/js/Pages/Staff1/PersonnelTraining.jsx",
+      "resources/js/Pages/Staff1/PostEventReports.jsx",
+      "resources/js/Pages/Staff1/ResourceDispatch.jsx",
+      "resources/js/Pages/Staff1/StockStatus.jsx",
+      "resources/js/Pages/Staff2/AcknowledgeReports.jsx",
+      "resources/js/Pages/Staff2/Dashboard.jsx",
+      "resources/js/Pages/Staff2/HazardMap.jsx",
+      "resources/js/Pages/Staff2/IncidentMap.jsx",
+      "resources/js/Pages/Staff2/IncidentStatus.jsx",
+      "resources/js/Pages/Staff2/PostEventReports.jsx",
+      "resources/js/Pages/Staff2/ResponderCoordination.jsx",
+      "resources/js/Pages/Staff2/ResponseStatus.jsx",
+      "resources/js/Pages/Welcome.jsx"
+    ],
+    "css": [
+      "assets/app-DXAyn1M0.css"
+    ]
+  }
+}
